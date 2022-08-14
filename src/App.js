@@ -9,6 +9,7 @@ import { Route, Routes } from "react-router-dom";
 import "./assets/scss/main.scss";
 ///components
 import Header from "./components/header";
+import CategoryMenu from "./components/pages/categoryMenu";
 import Contact from "./components/pages/contact";
 import Home from "./components/pages/home";
 import Menu from "./components/pages/menu";
@@ -21,7 +22,7 @@ function App() {
 				<Route path="/" element={<Home />} />
 				<Route path="/contact-us" element={<Contact />} />
 				<Route path="/menu" element={<Menu />} />
-				<Route path="/menu/:slug" element={<Demo />} />
+				<Route path="/menu/:slug" element={<CategoryMenu />} />
 			</Routes>
 		</div>
 	);
