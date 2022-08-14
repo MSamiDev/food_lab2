@@ -3,62 +3,62 @@
 		{
 			"_uid": "1",
 			"name": "SHARING PLATES-VEG",
-            "slug": "sharing-plates-veg",
-			"image":"/images/categories/1.webp",
+			"slug": "sharing-plates-veg",
+			"image": "/images/categories/1.webp",
 			"items": [
 				{
 					"_uid": "1.1",
 					"name": "Mac n Cheese Poppers",
-					"image":"/images/items/sharing-plates-veg/1.webp",
+					"image": "/images/items/sharing-plates-veg/1.webp",
 					"price": "180",
 					"description": "Cheesy macaroni pasta coated with panko breadcrumbs and deep-fried to perfection. Served with sour cream."
 				},
 				{
 					"_uid": "1.2",
 					"name": "Herbed Vegetables with Hummus & Pita",
-					"image":"/images/items/sharing-plates-veg/2.webp",
+					"image": "/images/items/sharing-plates-veg/2.webp",
 					"price": "270",
 					"description": "Fine Blended chickpeas with Tahina and Garlic, Served with whole wheat pita bread."
 				},
 				{
 					"_uid": "1.3",
 					"name": "Garlic Bread with cheese",
-					"image":"/images/items/sharing-plates-veg/3.webp",
+					"image": "/images/items/sharing-plates-veg/3.webp",
 					"price": "150",
 					"description": "Our inhouse bread baked with garlic and topped with mozzarella."
 				},
 				{
 					"_uid": "1.4",
 					"name": "Cheesy Nachos",
-					"image":"/images/items/sharing-plates-veg/4.webp",
+					"image": "/images/items/sharing-plates-veg/4.webp",
 					"price": "130",
 					"description": "House made Nachos oozing with cheese served with salsa."
 				},
 				{
 					"_uid": "1.5",
 					"name": "Classic Nachos",
-					"image":"/images/items/sharing-plates-veg/5.webp",
+					"image": "/images/items/sharing-plates-veg/5.webp",
 					"price": "180",
 					"description": "Homemade nachos with pinto beans, molten cheese, Jalapeno, salsa and sour cream."
 				},
 				{
 					"_uid": "1.6",
 					"name": "Plain fries",
-					"image":"/images/items/sharing-plates-veg/6.webp",
+					"image": "/images/items/sharing-plates-veg/6.webp",
 					"price": "100",
 					"description": ""
 				},
 				{
 					"_uid": "1.7",
 					"name": "Peri peri fries",
-					"image":"/images/items/sharing-plates-veg/7.webp",
+					"image": "/images/items/sharing-plates-veg/7.webp",
 					"price": "120",
 					"description": ""
 				},
 				{
 					"_uid": "1.8",
 					"name": "Cheese Fries",
-					"image":"/images/items/sharing-plates-veg/8.webp",
+					"image": "/images/items/sharing-plates-veg/8.webp",
 					"price": "150",
 					"description": "All fries served with our housemade dip."
 				}
@@ -67,85 +67,84 @@
 		{
 			"_uid": "2",
 			"name": "SHARING PLATES- NONVEG",
-            "slug": "sharing-plates-nonveg",
-			"image":"/images/categories/2.jpg",
+			"slug": "sharing-plates-nonveg",
+			"image": "/images/categories/2.jpg",
 			"items": [
 				{
 					"_uid": "2.1",
 					"name": "Popcorn chicken",
-					"image":"/images/items/sharing-plates-nonveg/1.webp",
+					"image": "/images/items/sharing-plates-nonveg/1.webp",
 					"price": "230",
 					"description": "Herb Marinated chicken chunks, panko coated and deep fried, Served with tangy dip."
 				},
 				{
 					"_uid": "2.2",
 					"name": "Crispy chicken wings",
-					"image":"/images/items/sharing-plates-nonveg/2.webp",
+					"image": "/images/items/sharing-plates-nonveg/2.webp",
 					"price": "220",
 					"description": "Chicken wings marinated in homemade spices and fried till perfection, served with garlic mayo."
 				},
 				{
 					"_uid": "2.3",
 					"name": "Grilled chicken wings",
-					"image":"/images/items/sharing-plates-nonveg/3.webp",
+					"image": "/images/items/sharing-plates-nonveg/3.webp",
 					"price": "220",
 					"description": "Herb marinated wings, char grilled served with hummus."
 				},
 				{
 					"_uid": "2.4",
 					"name": "Honey glazed chicken wings",
-					"image":"/images/items/sharing-plates-nonveg/4.webp",
+					"image": "/images/items/sharing-plates-nonveg/4.webp",
 					"price": "220",
 					"description": "Wings marinated in homemade spices, fried and tossed with our sauce."
 				},
 				{
 					"_uid": "2.5",
 					"name": "Nacho Crusted Chicken",
-					"image":"/images/items/sharing-plates-nonveg/5.webp",
+					"image": "/images/items/sharing-plates-nonveg/5.webp",
 					"price": "250",
 					"description": "Diced chicken coated with house-made nachos and deep-fried to perfection, served with salsa."
 				},
 				{
 					"_uid": "2.6",
 					"name": "Grilled Chicken with Hummus and Pita",
-					"image":"/images/items/sharing-plates-nonveg/6.webp",
+					"image": "/images/items/sharing-plates-nonveg/6.webp",
 					"price": "300",
 					"description": "Homemade hummus with our pita bread served with succulent grilled chicken."
 				},
 				{
 					"_uid": "2.7",
 					"name": "Chicken Cheesy Nachos",
-					"image":"/images/items/sharing-plates-nonveg/7.webp",
+					"image": "/images/items/sharing-plates-nonveg/7.webp",
 					"price": "220",
 					"description": "House-made Nachos, grilled chicken, pinto beans, molten cheese, jalepnos, salsa, sour cream what else do you want?"
 				},
 				{
 					"_uid": "2.8",
 					"name": "Drums of Heaven",
-					"image":"/images/items/sharing-plates-nonveg/8.webp",
+					"image": "/images/items/sharing-plates-nonveg/8.webp",
 					"price": "250",
 					"description": "Succulent chicken drums marinated in a homemade Sichuan inspired masala and deep fried till golden brown, served with our schezwan sauce."
 				}
 			]
-
 		},
 		{
 			"_uid": "3",
 			"name": "STUFFED BAO/PAV",
-            "slug": "stuffed-bao-pav",
-			"image":"/images/categories/3.webp",
+			"slug": "stuffed-bao-pav",
+			"image": "/images/categories/3.webp",
 			"items": [
 				{
 					"_uid": "3.1",
 					"name": "Anda Bhurji",
-					"image":"/images/items/stuffed-bao-pav/1.webp",
+					"image": "/images/items/stuffed-bao-pav/1.webp",
 					"price": "100",
 					"description": "Boiled egg bhurji cooked with Indian spices served with salad, chutney, garlic mayo."
 				},
 				{
 					"_uid": "3.2",
 					"name": "Mutton Kheema with Pav",
-					"image":"/images/items/stuffed-bao-pav/2.webp",
+					"image": "/images/items/stuffed-bao-pav/2.webp",
 					"price": "300",
 					"description": "Minced mutton cooked with Indian spices, finished with fresh coriander served with chimichurri."
 				},
@@ -159,186 +158,500 @@
 				{
 					"_uid": "3.4",
 					"name": "Chicken Sausage",
-					"image":"/images/items/stuffed-bao-pav/4.webp",
+					"image": "/images/items/stuffed-bao-pav/4.webp",
 					"price": "150",
 					"description": "Grilled sausage, salad, mustard mayo and chimichurri."
 				},
 				{
 					"_uid": "3.5",
 					"name": "Chicken Chilly",
-					"image":"/images/items/stuffed-bao-pav/5.webp",
+					"image": "/images/items/stuffed-bao-pav/5.webp",
 					"price": "150",
 					"description": "Chicken cooked with garlic soya served with salad and tomato chutney."
 				},
 				{
 					"_uid": "3.6",
 					"name": "Slow cooked Chicken",
-					"image":"/images/items/stuffed-bao-pav/6.webp",
+					"image": "/images/items/stuffed-bao-pav/6.webp",
 					"price": "180",
 					"description": "Thinly cut slow cooked chicken served with hummus, pickled vegetables and garlic mayo."
 				},
 				{
 					"_uid": "3.7",
 					"name": "Mushroom Chilly",
-					"image":"/images/items/stuffed-bao-pav/7.webp",
+					"image": "/images/items/stuffed-bao-pav/7.webp",
 					"price": "130",
 					"description": "Mushroom sauted with garlic, bell pepper, greenchillies and finished with dark soy and served with roasted."
 				},
 				{
 					"_uid": "3.8",
 					"name": "Paneer tikka",
-					"image":"/images/items/stuffed-bao-pav/8.webp",
+					"image": "/images/items/stuffed-bao-pav/8.webp",
 					"price": "170",
 					"description": "soft paneer cooked with aromatic spices and chimichurri and tikka mayo layered bao."
 				},
 				{
 					"_uid": "3.9",
 					"name": "Paneer Chilly",
-					"image":"/images/items/stuffed-bao-pav/9.webp",
+					"image": "/images/items/stuffed-bao-pav/9.webp",
 					"price": "150",
 					"description": "Paneer deep fried and tossed with chilies and bell peppers and finished with dark soy."
 				}
-
 			]
-
 		},
 		{
 			"_uid": "4",
 			"name": "EGGS TO ORDER",
-            "slug": "eggs-to-order",
-			"image":"/images/categories/4.jpg",
-			"items":[
+			"slug": "eggs-to-order",
+			"image": "/images/categories/4.jpg",
+			"items": [
 				{
 					"_uid": "4.1",
 					"name": "Classic omelet",
-					"image":"/images/items/eggs-to-order/1.webp",
+					"image": "/images/items/eggs-to-order/1.webp",
 					"price": "100",
-					"description": "Served with bread"
+					"description": "Served with bread."
 				},
 				{
 					"_uid": "4.2",
 					"name": "Cheese omelet",
-					"image":"/images/items/eggs-to-order/2.webp",
+					"image": "/images/items/eggs-to-order/2.webp",
 					"price": "120",
-					"description": "Served with bread"
+					"description": "Served with bread."
 				},
 				{
 					"_uid": "4.3",
 					"name": "Scrambled Eggs",
-					"image":"/images/items/eggs-to-order/3.webp",
+					"image": "/images/items/eggs-to-order/3.webp",
 					"price": "100",
-					"description": "Served with bread"
+					"description": "Served with bread."
 				},
 				{
 					"_uid": "4.4",
 					"name": "Stuffed Omelet",
-					"image":"/images/items/eggs-to-order/4.webp",
+					"image": "/images/items/eggs-to-order/4.webp",
 					"price": "",
-					"description": "Served with bread",
-					"stuffing":[
+					"description": "Served with bread.",
+					"stuffing": [
 						{
 							"_uid": "4.4.1",
 							"name": "Mushroom",
-							"image":"/images/items/eggs-to-order/stuffed-omelet/4.1.webp",
+							"image": "/images/items/eggs-to-order/stuffed-omelet/4.1.webp",
 							"price": "140",
-							"description": "Served with bread"
+							"description": "Served with bread."
 						},
 						{
 							"_uid": "4.4.2",
 							"name": "Spinach",
-							"image":"/images/items/eggs-to-order/stuffed-omelet/4.2.webp",
+							"image": "/images/items/eggs-to-order/stuffed-omelet/4.2.webp",
 							"price": "140",
-							"description": "Served with bread"
+							"description": "Served with bread."
 						},
 						{
 							"_uid": "4.4.3",
 							"name": "Creamy Chicken",
-							"image":"/images/items/eggs-to-order/stuffed-omelet/4.3.webp",
+							"image": "/images/items/eggs-to-order/stuffed-omelet/4.3.webp",
 							"price": "180",
-							"description": "Served with bread"
+							"description": "Served with bread."
 						},
 						{
 							"_uid": "4.4.4",
 							"name": "Chicken Sausage",
-							"image":"/images/items/eggs-to-order/stuffed-omelet/4.4.webp",
+							"image": "/images/items/eggs-to-order/stuffed-omelet/4.4.webp",
 							"price": "180",
-							"description": "Served with bread"
+							"description": "Served with bread."
 						}
-
 					]
 				}
 			]
-
 		},
 		{
 			"_uid": "5",
 			"name": "MOMOS",
-            "slug": "momos",
-			"image":"/images/categories/5.jpg"
-
+			"slug": "momos",
+			"image": "/images/categories/5.jpg",
+			"items": [
+				{
+					"_uid": "5.1",
+					"name": "Veg steamed momos",
+					"image": "/images/items/MOMOS/1.webp",
+					"price": "140",
+					"description": "Served with Soup."
+				},
+				{
+					"_uid": "5.2",
+					"name": "Chicken steamed momos",
+					"image": "/images/items/MOMOS/2.webp",
+					"price": "180",
+					"description": "Served with Soup."
+				}
+			]
 		},
 		{
 			"_uid": "6",
 			"name": "SHAWARMA",
-            "slug": "shawarma",
-			"image":"/images/categories/6.jpg"
-
+			"slug": "shawarma",
+			"image": "/images/categories/6.jpg",
+			"items": [
+				{
+					"_uid": "6.1",
+					"name": "Classic Shawarma",
+					"image": "/images/items/shawarma/1.webp",
+					"price": "150",
+					"description": "Thinly sliced slow cooked chicken rolled into homemade pita with hummus, pickled vegetables and garlic mayo."
+				},
+				{
+					"_uid": "6.2",
+					"name": "Chicken Cheese Shawarma",
+					"image": "/images/items/shawarma/2.webp",
+					"price": "170",
+					"description": "Classic Shawarma with just the right amount of cheese."
+				},
+				{
+					"_uid": "6.3",
+					"name": "Shawarma Platter",
+					"image": "/images/items/shawarma/3.webp",
+					"price": "200",
+					"description": "Thinly sliced slow cooked chicken served along with pita, hummus and pickled vegetables."
+				}
+			]
 		},
 		{
 			"_uid": "7",
 			"name": "WRAPS AND ROLLS",
-            "slug": "wraps-and-rolls",
-			"image":"/images/categories/7.webp"
-
+			"slug": "wraps-and-rolls",
+			"image": "/images/categories/7.webp",
+			"items": [
+				{
+					"_uid": "7.1",
+					"name": "Chicken Tikka Roll",
+					"image": "/images/items/wraps-and-rolls/1.webp",
+					"price": "180",
+					"description": "Chicken cooked with Indian spices, wrapped with soft roti served with our own tikka mayo and green chutney."
+				},
+				{
+					"_uid": "7.2",
+					"name": "Thecha Chicken Roll",
+					"image": "/images/items/wraps-and-rolls/2.webp",
+					"price": "180",
+					"description": "Succulent chicken cooked with desi thecha wrapped in soft roti."
+				},
+				{
+					"_uid": "7.3",
+					"name": "Cheesy Chicken Wrap",
+					"image": "/images/items/wraps-and-rolls/3.webp",
+					"price": "200",
+					"description": "Chicken chunks marinated with Indian spices and tossed with our house-made cheese sauce."
+				},
+				{
+					"_uid": "7.4",
+					"name": "Paneer Chilly Roll",
+					"image": "/images/items/wraps-and-rolls/4.webp",
+					"price": "150",
+					"description": "Paneer tossed with garlic, onions, bell peppers and finished with dark soy."
+				},
+				{
+					"_uid": "7.5",
+					"name": "Cheese Corn Peppy Paneer Roll",
+					"image": "/images/items/wraps-and-rolls/5.webp",
+					"price": "150",
+					"description": "The ultimate combination of cheese, corn and paneer wrapped in soft roti served with green chutney."
+				},
+				{
+					"_uid": "7.6",
+					"name": "Cheese Potato Wrap",
+					"image": "/images/items/wraps-and-rolls/6.webp",
+					"price": "150",
+					"description": "Crispy fried potato bites with molten cheese wrapped in soft roti, served with salad and chutney."
+				},
+				{
+					"_uid": "7.7",
+					"name": "Paneer Tikka Roll",
+					"image": "/images/items/wraps-and-rolls/7.webp",
+					"price": "170",
+					"description": "Mouth melting paneer marinated in Indian spices and finished with chimichurri and tikka mayo."
+				}
+			]
 		},
 		{
 			"_uid": "8",
 			"name": "PIZZA",
-            "slug": "pizza",
-			"image":"/images/categories/8.webp"
-
+			"slug": "pizza",
+			"image": "/images/categories/8.webp",
+			"items": [
+				{
+					"_uid": "8.1",
+					"name": "Margherita Pizza",
+					"image": "/images/items/pizza/1.webp",
+					"price": "250",
+					"description": "Sizzling mozzarella and fresh basil."
+				},
+				{
+					"_uid": "8.2",
+					"name": "Vegetale Pizza",
+					"image": "/images/items/pizza/2.webp",
+					"price": "300",
+					"description": "Bell pepper, zucchini, caramelized onion, mushroom, olives."
+				},
+				{
+					"_uid": "8.3",
+					"name": "Alfredo Corn and Paneer Pizza",
+					"image": "/images/items/pizza/3.webp",
+					"price": "300",
+					"description": "Bechamel sauce, Fresh corn and soft paneer."
+				},
+				{
+					"_uid": "8.4",
+					"name": "Salami Mozzarella Pizza",
+					"image": "/images/items/pizza/4.webp",
+					"price": "370",
+					"description": "Chicken salami, bell peppers, Caramelized onion."
+				},
+				{
+					"_uid": "8.5",
+					"name": "Grilled Chicken and Chicken Sausage Pizza",
+					"image": "/images/items/pizza/5.webp",
+					"price": "350",
+					"description": "Chicken cooked with garlic soya served with salad and tomato chutney)."
+				},
+				{
+					"_uid": "8.6",
+					"name": "Chicken Tikka Pizza",
+					"image": "/images/items/pizza/6.webp",
+					"price": "400",
+					"description": "Chicken tikka, caramelized onion, capsicum."
+				}
+			]
 		},
 		{
 			"_uid": "9",
 			"name": "OPEN SANDWICHES",
-            "slug": "open-sandwiches",
-			"image":"/images/categories/9.jpg"
-
+			"slug": "open-sandwiches",
+			"image": "/images/categories/9.jpg",
+			"discription": "served with vinaigrette salad.",
+			"items": [
+				{
+					"_uid": "9.1",
+					"name": "Spinach and Corn",
+					"image": "/images/items/open-sandwiches/1.webp",
+					"price": "200",
+					"description": "The classic combination of cheesy spinach and corn served on toasted garlic bread topped with mozzarella and baked to perfection."
+				},
+				{
+					"_uid": "9.2",
+					"name": "Creamy Mushroom",
+					"image": "/images/items/open-sandwiches/2.webp",
+					"price": "200",
+					"description": "Mushroom tossed in herbs and then layered on toasted bread with mayonnaise, and mozzarella and baked till golden brown."
+				},
+				{
+					"_uid": "9.3",
+					"name": "Salami mozzarella",
+					"image": "/images/items/open-sandwiches/3.webp",
+					"price": "250",
+					"description": "Chicken salami, stringy mozzarella, toasted bread what else do you need to know?."
+				},
+				{
+					"_uid": "9.4",
+					"name": "Creamy chicken ",
+					"image": "/images/items/open-sandwiches/4.webp",
+					"price": "250",
+					"description": "Our special creamy chicken served on toasted bread and stringy mozzarella."
+				}
+			]
 		},
 		{
 			"_uid": "10",
 			"name": "BURGERS",
-            "slug": "burgers",
-			"image":"/images/categories/10.jpg"
-
+			"slug": "burgers",
+			"image": "/images/categories/10.jpg",
+			"items": [
+				{
+					"_uid": "10.1",
+					"name": "Veggie Burger",
+					"image": "/images/items/burgers/1.webp",
+					"price": "180",
+					"description": "Veg patty, Crisp lettuce, tomato, onion."
+				},
+				{
+					"_uid": "10.2",
+					"name": "Cottage Cheese Steak Burger",
+					"image": "/images/items/burgers/2.webp",
+					"price": "200",
+					"description": "Herb marinated cottage cheese with chimichurri."
+				},
+				{
+					"_uid": "10.3",
+					"name": "Grilled Chicken Burger",
+					"image": "/images/items/burgers/3.webp",
+					"price": "250",
+					"description": "Inhouse prepared chicken patty char grilled, topped with cheese, tomato and onion."
+				},
+				{
+					"_uid": "10.4",
+					"name": "Fried Chicken Burger",
+					"image": "/images/items/burgers/4.webp",
+					"price": "250",
+					"description": "Panko fried chicken, Crisp lettuce, tomato and onion."
+				}
+			]
 		},
 		{
 			"_uid": "11",
 			"name": "PASTA",
-            "slug": "pasta",
-			"image":"/images/categories/11.webp"
-
+			"slug": "pasta",
+			"image": "/images/categories/11.webp",
+			"items": [
+				{
+					"_uid": "11.1",
+					"name": "Alfredo (Veg/Nonveg)",
+					"image": "/images/items/pasta/1.webp",
+					"price": "240 / 300",
+					"description": "Penne/Spaghetti."
+				},
+				{
+					"_uid": "11.2",
+					"name": "Arrabiata (Veg/Nonveg)",
+					"image": "/images/items/pasta/2.webp",
+					"price": "240 / 300",
+					"description": "Penne/Spaghetti."
+				},
+				{
+					"_uid": "11.3",
+					"name": "Pesto (Veg/Nonveg)",
+					"image": "/images/items/pasta/3.webp",
+					"price": "240 / 300",
+					"description": "Penne/Spaghetti."
+				},
+				{
+					"_uid": "11.4",
+					"name": "Pink (Veg/Nonveg)",
+					"image": "/images/items/pasta/4.webp",
+					"price": "240 / 300",
+					"description": "Penne/Spaghetti."
+				},
+				{
+					"_uid": "11.5",
+					"name": "Aglio Olio (Veg/Nonveg)",
+					"image": "/images/items/pasta/5.webp",
+					"price": "240 / 300",
+					"description": "Spaghetti."
+				}
+			]
 		},
 		{
 			"_uid": "12",
 			"name": "DESSERTS",
-            "slug": "desserts",
-			"image":"/images/categories/12.jpg"
-
+			"slug": "desserts",
+			"image": "/images/categories/12.jpg",
+			"items": [
+				{
+					"_uid": "12.1",
+					"name": "Apple Pie With Vanilla Ice Cream ",
+					"image": "/images/items/desserts/1.webp",
+					"price": "150"
+				},
+				{
+					"_uid": "12.2",
+					"name": "Nutty Chocolate Brownie with vanilla ice cream ",
+					"image": "/images/items/desserts/2.webp",
+					"price": "150"
+				},
+				{
+					"_uid": "12.3",
+					"name": "Caramel Custard ",
+					"image": "/images/items/desserts/3.webp",
+					"price": "100"
+				}
+			]
 		},
 		{
 			"_uid": "13",
 			"name": "HOT BEVERAGES",
-            "slug": "hot-beverages",
-			"image":"/images/categories/13.jpg"
-
+			"slug": "hot-beverages",
+			"image": "/images/categories/13.jpg",
+			"items": [
+				{
+					"_uid": "13.1",
+					"name": "Black Tea",
+					"image": "/images/items/hot-beverages/1.webp",
+					"price": "35"
+				},
+				{
+					"_uid": "13.2",
+					"name": "Milk Tea",
+					"image": "/images/items/hot-beverages/2.webp",
+					"price": "50"
+				},
+				{
+					"_uid": "13.3",
+					"name": "Espresso",
+					"image": "/images/items/hot-beverages/3.webp",
+					"price": "80"
+				},
+				{
+					"_uid": "13.4",
+					"name": "Cappuccino",
+					"image": "/images/items/hot-beverages/4.webp",
+					"price": "110"
+				},
+				{
+					"_uid": "13.5",
+					"name": "Americano",
+					"image": "/images/items/hot-beverages/5.webp",
+					"price": "110"
+				},
+				{
+					"_uid": "13.6",
+					"name": "Latte",
+					"image": "/images/items/hot-beverages/6.webp",
+					"price": "110"
+				}
+			]
 		},
 		{
 			"_uid": "14",
 			"name": "COLD BEVERAGES",
-            "slug": "cold-beverages",
-			"image":"/images/categories/14.jpg"
-
+			"slug": "cold-beverages",
+			"image": "/images/categories/14.jpg",
+			"items": [
+				{
+					"_uid": "14.1",
+					"name": "Snickers Shake",
+					"image": "/images/items/cold-beverages/1.webp",
+					"price": "160"
+				},
+				{
+					"_uid": "14.2",
+					"name": "Kit Kat Shake",
+					"image": "/images/items/cold-beverages/2.webp",
+					"price": "160"
+				},
+				{
+					"_uid": "14.3",
+					"name": "Oreo Shake",
+					"image": "/images/items/cold-beverages/3.webp",
+					"price": "160"
+				},
+				{
+					"_uid": "14.4",
+					"name": "Banana Caramel Shake",
+					"image": "/images/items/cold-beverages/4.webp",
+					"price": "160"
+				},
+				{
+					"_uid": "14.5",
+					"name": "Chocho Fantasy Shake",
+					"image": "/images/items/cold-beverages/5.webp",
+					"price": "180"
+				},
+				{
+					"_uid": "14.6",
+					"name": "Cold Coffee",
+					"image": "/images/items/cold-beverages/6.webp",
+					"price": "100"
+				}
+			]
 		}
 	]
 }
